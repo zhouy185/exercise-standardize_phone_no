@@ -1,4 +1,4 @@
-# 📘 Data Cleaning Exercise: Standardizing Phone Numbers in the GTHA
+# 📘 Data Cleaning Exercise: Standardizing Phone Numbers
 
 ## 📍 Overview
 In real-world datasets, information often comes in **inconsistent formats**. This can cause major issues when analyzing, joining, or validating data.  
