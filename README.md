@@ -13,3 +13,8 @@ All of these may represent the same structure, but unless standardized, they wil
 Another example is numbers being recorded as values that are not directly usable; e.g., "$1,999" as a dollar value is not directly usable for calcuations.
 
 This exercise uses a small dataset of customers contact information, where each phone number is deliberately written in a different style and payment amount include dollar symbols and commas. Your goal is to **standardize** those numbers.
+
+## Deliverables
+
+* Complete the two tasks in the Jupyter Notebook.
+* Convert the codes in the notebook as a .py file and upload it to your GitHub repository.
